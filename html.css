@@ -1,0 +1,159 @@
+body
+{
+    font-size: 20px !important;
+    text-align: center;
+}
+
+h1
+{
+    margin-bottom: 2rem !important;
+    font-size: 40px !important;
+    font-family: "eurostile", sans-serif !important;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 20px !important;
+}
+
+.page
+{
+    padding-top: 4rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    text-size-adjust: 100%;
+    text-align: center;
+}
+
+.avatar
+{
+    margin: 2rem;
+}
+
+.Porfolio_body
+{
+    position: Center;
+}
+
+.Portfolio_footer .tech
+{
+    width: 70%;
+}
+
+.About_Info
+{
+    flex: none;
+    width: 50%;
+    position: Center;
+    text-align: center !important;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    text-size-adjust: 100%;
+    text-align: center;
+}
+
+.About_Info h1
+{
+    font-size: 60px;
+}
+
+.About_Info h2
+{
+    font-size: 20px;
+}
+
+.About.is-primary
+{
+    background-color: #0d6efd;
+    color: white;
+}
+
+.About.is-medium
+{
+    display: block;
+    box-sizing:border-box;
+    padding: 9rem 1.5rem;   
+}
+
+.portfolio 
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    max-width: 800px;
+    flex: none;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    text-size-adjust: 100%;
+    text-align: center ;
+}
+
+.image-is-3by1
+{
+    padding-top: 100px;
+    position: right;
+    border-radius: 20px;
+    float:left;
+    padding-left: 10px;
+    padding-top: 10px;
+    /* width: 50%; */
+}
+
+.image-is-3by1:hover
+{
+    filter: opacity(50%);
+}
+
+.image-is-3by2
+{
+    padding-top: 100px;
+    position: relative;
+    border-radius: 20px;
+    float:left;
+    padding-left: 10px;
+    padding-top: 10px;
+    /* width: 50%; */
+}
+.image-is-3by2:hover
+{ 
+    filter:opacity(50%)
+}
+
+.footer
+{
+    flex: none;
+    background-color: #0d6efd;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top:20%;
+    flex-direction: column;
+    text-size-adjust: 100%;
+    text-align: center;
+}
+
+
+.centered-text
+{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+}
+
+.centered-text h1
+{
+    font-size: 1.6rem !important;
+}
+
+
+.column-works:hover .overlay
+{
+    opacity: 1;
+    transform: scale(0.8);
+}
+
